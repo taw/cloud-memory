@@ -4,7 +4,6 @@ let pics = [
   "2015-08-31 09.45.00 office chair.jpg",
   "2015-09-01 03.47.15 keyboard.jpg",
   "2015-09-12 01.47.55 drinking tea.jpg",
-  "2015-09-30 22.39.35 on computer.jpg",
   "2015-10-04 20.43.17 todo lists.jpg",
   "2015-10-04 22.18.44 face closeup.jpg",
   "2015-10-12 05.06.13 3d printer.jpg",
